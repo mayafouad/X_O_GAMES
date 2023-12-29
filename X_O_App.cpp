@@ -48,7 +48,7 @@ void game3(){
         players[1] = new Player (2, 'o');
     else
         players[1] = new RandomPlayer ('o', 5);
-    Game x_o_game (new FiveXFive_Board(), players);
+    Game x_o_game (new X_O_Board, players);
     x_o_game.run();
     system ("pause");
 }
