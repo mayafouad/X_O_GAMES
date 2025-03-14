@@ -1,5 +1,5 @@
 // File name: ConnectFourPlayer
-// Purpose: class for Connect Four Player
+// Purpose: Class for Connect Four Player
 // Author: Laila Waleed Dawood Soliman
 // ID: 20220261
 // Section: S20
